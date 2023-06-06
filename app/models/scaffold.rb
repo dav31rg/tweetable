@@ -1,2 +1,0 @@
-class Scaffold < ApplicationRecord
-end
